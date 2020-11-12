@@ -1,3 +1,7 @@
 One of the functions of operating-system is manage the computer's resources, such as the central processing unit, memory, disk drives, and printers. 
 The first listed function, managing the computer's resources, is taken care of without the user being aware of the details. 
 All input and output operations, although invoked by an applications program, are actually carried out by the operating system. 
+Operating systems for mainframe and other large computers are even more complex 
+because they must keep track of several programs from several users all running in the same time frame. 
+Although some personal computer operating systems-most often found in business or learning environments-can support multiple programs and users, most are concerned only with a single user. 
+We begin by focusing on the interaction between a single user and a personal computer operating system.
