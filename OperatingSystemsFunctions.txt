@@ -1,6 +1,10 @@
 An operating system is a set of programs. 
 The most important program in the operating system, the program that manages the operating system, is the supervisor program, most of which remains in memory and is thus referred to as resident. 
 The supervisor controls the entire operating system and loads into memory other operating system programs from disk storage only as needed.
+An operating system has three main functions: 
+(1) manage the computer's resources, such as the central processing unit, memory, disk drives, and printers, 
+(2) establish a user interface, and 
+(3) execute and provide services for applications software.
 One of the functions of operating-system is manage the computer's resources, such as the central processing unit, memory, disk drives, and printers. 
 The first listed function, managing the computer's resources, is taken care of without the user being aware of the details. 
 All input and output operations, although invoked by an applications program, are actually carried out by the operating system. 
